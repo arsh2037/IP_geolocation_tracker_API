@@ -26,3 +26,6 @@ Currently this is the how the API looks in the anypoint platform: <br>
 when requesting access to the API : please select "10-req-policy"
 <br>
 <img width="253" alt="image" src="https://github.com/arsh2037/IP_geolocation_tracker_API/assets/23148016/ac6c4827-ca8d-4498-a0e0-77afa2bf2c18">
+
+
+left To-DO: Use maven to deploy
