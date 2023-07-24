@@ -3,6 +3,9 @@
 ⚓ How I deployed the mule app to cloudHub:
     🔄Attempt 1: Using Mule Maven to deploy app to cloudHub2.0
         I thoroughly followed this doc:https://docs.mulesoft.com/mule-runtime/4.4/deploy-to-cloudhub-2 and dozens of associated docs along, and I created a design in my mind. 
+        Created a connected app from Access Management --> Connected apps --> create a new app and gave it all scopes <br>
+        <img width="332" alt="image" src="https://github.com/arsh2037/IP_geolocation_tracker_API/assets/23148016/097d50ef-9ac5-4c84-af68-029579123fa9">
+
         I configured the pom.xml file, .m2, settings.xml , installed JAVA and Maven set it up (env variables). 
         so the schema of the design I had in my mind is : Mule-maven -----publishes to----> Anypoint Exchange------> CloudHub2.0
         The maven commands I anticipated (and used) using: Firstly: mvn clean package deploy: It will deploy the app to Exchange 
