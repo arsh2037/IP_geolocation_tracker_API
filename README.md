@@ -21,7 +21,7 @@
     I used this option and configured the requirements such as RAML version specifications and other stuff, finally was able to deploy this solution.
 
 P.S.  
-Currently this is the how the API looks in the anypoint platform: <br>
+Currently this is the how the API looks in the anypoint platform (Using proxy because its enabling greater control over API usage, adding policies etc): <br>
 <img width="299" alt="image" src="https://github.com/arsh2037/IP_geolocation_tracker_API/assets/23148016/d011dd1c-d4b2-4919-8414-22d27afba9d5">
 
 <strong>Note</strong>
